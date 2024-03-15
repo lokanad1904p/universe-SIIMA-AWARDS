@@ -1,0 +1,35 @@
+.main{
+     display: flex; 
+     justify-content: space-around;
+     background: rgba(0, 0, 0, 0.5);
+     margin-top: 20px;
+}
+h1{
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    margin:auto;
+    text-align: center;
+}
+.name{
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    width:100%;
+    margin:auto;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+img{
+    height:140px;
+    width:140px;
+    margin:20px;
+    border: 2px solid white;
+}
+body{
+    background-image: url("https://img.freepik.com/premium-vector/red-golden-background-award-background-luxury-graphics-modern-abstract-template-design_820621-5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    
